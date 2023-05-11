@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rfid-with-login", "rfid-with-login\rfid-with-login.csproj", "{B268DC9F-F1AF-45D0-B498-C6E30D29E365}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B268DC9F-F1AF-45D0-B498-C6E30D29E365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B268DC9F-F1AF-45D0-B498-C6E30D29E365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B268DC9F-F1AF-45D0-B498-C6E30D29E365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B268DC9F-F1AF-45D0-B498-C6E30D29E365}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC9CF4C8-0504-423D-9FB2-FCD47C8FCCC0}
+	EndGlobalSection
+EndGlobal
