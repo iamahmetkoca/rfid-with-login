@@ -1,6 +1,6 @@
 # rfid-with-login
 
-![Project Image](https://ahmetkoca.com.tr/github/rfid-with-csharp/rfid-with-csharp.png)
+![Project Image](https://ahmetkoca.dev/github/rfid-with-csharp/rfid-with-csharp.png)
 
 
 
@@ -11,7 +11,7 @@
 
 - [Description](#description)
 - [Author Info](#author-info)
-- [Arduino Connections](https://ahmetkoca.com.tr/github/rfid-with-csharp/arduino-connections.png)
+- [Arduino Connections](https://ahmetkoca.dev/github/rfid-with-csharp/arduino-connections.png)
 ---
 
 ## Description
